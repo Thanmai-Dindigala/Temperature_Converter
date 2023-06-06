@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box var(--secondary-color);
+  padding: 20;
+  margin: 20;
+}
+
+:root {
+  --padding-inline: 20px;
+  --main-color: #f4a259;
+  --secondary-color: #c73535;
+}
+
+h1 {
+  background-color: azure;
+  color: rgb(45, 22, 179);
+}
+body {
+  background-color: azure;
+}
+div {
+  background-color: azure;
+}
+
+p {
+  background-color: rgb(241, 167, 167);
+}
